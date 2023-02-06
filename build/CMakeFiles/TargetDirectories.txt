@@ -1,0 +1,5 @@
+/home/robotlab/Documents/code/OpenCV/build/CMakeFiles/edit_cache.dir
+/home/robotlab/Documents/code/OpenCV/build/CMakeFiles/rebuild_cache.dir
+/home/robotlab/Documents/code/OpenCV/build/CameraRecord/CMakeFiles/CameraRecord.dir
+/home/robotlab/Documents/code/OpenCV/build/CameraRecord/CMakeFiles/edit_cache.dir
+/home/robotlab/Documents/code/OpenCV/build/CameraRecord/CMakeFiles/rebuild_cache.dir
